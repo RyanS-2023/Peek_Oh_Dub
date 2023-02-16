@@ -9,7 +9,7 @@ Software Architecture<br>
 Software Implementation<br>
 ---Step 1: Hardware initialization<br>
 ---------Initialize GPIO pins for the push button<br>
----------Initialize GPIO pins for the 5 RGB LEDs<br>
+---------Initialize GPIO pins for the RGB LED<br>
 ---Step 2: Profile initialization<br>
 ---------Define 5 arrays to hold the actions for each profile<br>
 ---------Define 5 arrays to hold the RGB values for each profile<br>
